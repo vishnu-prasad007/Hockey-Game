@@ -1,0 +1,35 @@
+Welcome to World Cup Hockey
+The 4 teams that are in semi finals are :
+S.No	Teams
+1	Canada
+2	India
+3	USA
+4	UK
+-----------First Semi Final--------------
+
+Match between Team Canada and Team India
+Canada = 1 Goals
+India = 38 Goals
+Team India Won the game
+-----------Second Semi Final--------------
+
+Match between Team USA and Team UK
+USA = 6 Goals
+UK = 0 Goals
+Team USA Won the game
+-----------Final Match--------------
+
+Match between Team India and Team USA
+India = 38 Goals
+USA = 6 Goals
+Team India Won the game
+
+----------------Final Result-------------------
+The Euro Cup is ended!! Team India is the winner
+
+------------Details of Teams performance and points--------------
+S.no	Team Name	Total Goals	Total Match Wins
+1	Canada	1	0	
+2	India	38	2	
+3	USA	6	1	
+4	UK	0	0	
